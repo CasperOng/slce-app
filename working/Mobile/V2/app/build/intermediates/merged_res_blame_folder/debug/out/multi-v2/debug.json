@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/casperong/Documents/Working/Programming/slce-app/working/Mobile/V2/app/build/intermediates/merged_res/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/casperong/Documents/Working/Programming/slce-app/working/Mobile/V2/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "281"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "97",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "361"
+                    }
+                },
+                {
+                    "source": "/Users/casperong/Documents/Working/Programming/slce-app/working/Mobile/V2/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "41",
+                        "endOffsets": "93"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "41",
+                        "endOffsets": "92"
+                    }
+                }
+            ]
+        }
+    ]
+}
